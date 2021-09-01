@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.leancloud:realtime-core:8.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.leancloud/realtime-core/8.0.2/b3effcfcdbab0806fe5da40014466136e45024a0/realtime-core-8.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.leancloud/realtime-core/8.0.2/c2dcaedbb7ba6ed0a7a6460d689748d973e5e64f/realtime-core-8.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.leancloud/realtime-core/8.0.2/b41f78a0e5b4f4c0bd6c632923aebf50dfeeb3b9/realtime-core-8.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
